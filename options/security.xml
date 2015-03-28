@@ -1,0 +1,21 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="e86d036dc89ed252627ba61b6023ec0b21cbd58fbbacdbe2b530c4a553903dd8" />
+          <option value="5784868353e8d772b4f41fbd11f2a8441bb6445ef1c5dc98d2a6dac0a33b41bb" />
+          <option value="6a39223583f63195610e3c1a38d7c35d08f0c5cee30a4959f19160059dc2f839" />
+        </array>
+        <array>
+          <option value="8962f7731a0b30862b4da5c9d9830a2cc5f5fc1648242d888b16d1668c2dd1ad" />
+          <option value="506f7d26b5636e914c779c21dfc3559642831e75ae7168c2034743869e2a148d" />
+          <option value="5789895d0e91ba21089bb38447d41cb22e53e7d870fedc62adfbdb124b6520c3" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git@heroku.com" method="publickey" />
+  </component>
+</application>

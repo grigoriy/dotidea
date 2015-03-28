@@ -1,0 +1,6 @@
+componentVersions/
+jdbc-drivers/
+plugins/
+tasks/
+*.key
+port

@@ -1,0 +1,10 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>facebook</find>
+      <find>securesocial.providers</find>
+      <find>vk.png</find>
+      <find>you need to log in</find>
+    </findStrings>
+  </component>
+</application>

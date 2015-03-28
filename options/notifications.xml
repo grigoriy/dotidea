@@ -1,0 +1,14 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <toolWindow group="Find in Path" />
+    <toolWindow group="Debugger messages" />
+    <toolWindow group="Database Navigator" />
+    <toolWindow group="Vcs Messages" />
+    <toolWindow group="notification.group.id.sbt" />
+    <toolWindow group="LiveEdit" />
+    <toolWindow group="Inspection Results" />
+  </component>
+</application>

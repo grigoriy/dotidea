@@ -1,0 +1,66 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="747" y="207" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="1243" y="105" />
+    <location key="OptionsEditor.0.0.1920.1080" x="360" y="128" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="697" y="344" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="29" y="207" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="0" y="215" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.1920.1080" x="748" y="358" />
+    <location key="#Heroku_Deployment.0.0.1920.1080" x="702" y="342" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="688" y="351" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="616" y="206" />
+    <location key="new project wizard.0.0.1920.1080" x="158" y="201" />
+    <location key="#Project_Structure.0.0.1920.1080" x="593" y="170" />
+    <location key="EditParametersPopupWindow.0.0.1920.1080" x="771" y="437" />
+    <location key="#Inspections.0.0.1920.1080" x="117" y="232" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="773" y="261" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="722" y="257" />
+    <location key="FileChooserDialogImpl.1024.0.1920.1080" x="1771" y="287" />
+    <location key="NewModule_or_Project.wizard.1024.0.1920.1080" x="1596" y="215" />
+    <location key="#Browse_Repositories.1024.0.1920.1080" x="1571" y="207" />
+    <location key="OptionsEditor.1024.0.1920.1080" x="1471" y="0" />
+    <location key="#Plugins.1024.0.1920.1080" x="1571" y="207" />
+    <location key="DiffWindow.0.0.1920.1080" x="0" y="0" />
+    <location key="com.intellij.openapi.vcs.changes.UnversionedViewDialog.0.0.1920.1080" x="310" y="316" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080" x="243" y="330" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="2" y="368" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="548" y="208" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="145" y="273" />
+    <location key="dock-window-1.0.0.1920.1080" x="0" y="0" />
+    <location key="dock-window-2.0.0.1920.1080" x="0" y="0" />
+    <location key="DBNavigator.GlobalSettings.0.0.1920.1080" x="38" y="207" />
+    <location key="com.intellij.database.view.ui.AddTableDialog.0.0.1920.1080" x="158" y="241" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="0" y="945" />
+    <location key="VCS.ChangelistChooser.0.0.1920.1080" x="302" y="383" />
+    <location key="findTextDialog.0.0.1920.1080" x="255" y="291" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1920.1080" x="183" y="272" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080" x="219" y="265" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="218" y="280" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="245" y="300" />
+    <location key="#gs-spring-boot_[spring-boot:run].0.0.1920.1080" x="249" y="136" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="973" height="302" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="973" height="302" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="973" height="302" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="973" height="302" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="687" height="874" />
+    <size key="javadoc.popup.0.0.1920.1080" width="502" height="335" />
+    <size key="OptionsEditor.1024.0.1920.1080" width="1024" height="1309" />
+    <size key="javadoc.popup.1024.0.1920.1080" width="502" height="164" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="994" height="647" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="916" height="371" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="916" height="371" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="916" height="371" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="916" height="371" />
+    <size key="DiffWindow.0.0.1920.1080" width="862" height="1078" />
+    <size key="dock-window-1.0.0.1920.1080" width="900" height="1078" />
+    <size key="dock-window-2.0.0.1920.1080" width="900" height="1078" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="1117" height="109" />
+    <size key="findTextDialog.0.0.1920.1080" width="408" height="544" />
+    <size key="new project wizard.0.0.1920.1080" width="734" height="510" />
+    <extendedState key="dock-window-2" state="0" />
+    <extendedState key="dock-window-1" state="0" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+</application>

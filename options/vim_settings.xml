@@ -1,0 +1,772 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/ssd2/code/todo_proj/todolist/conf/securesocial.conf" timestamp="1423214564957">
+        <mark key="'" line="136" column="16" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/app/controllers/Application.scala" timestamp="1423219945773">
+        <mark key="'" line="37" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/ssd2/code/bet-helper/pom.xml" timestamp="1418851547715">
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="[" line="4" column="30" />
+      </file>
+      <file name="/ssd2/code/springmvc-gwt/pom.xml" timestamp="1414258964799">
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="65" column="39" />
+        <mark key="." line="6" column="32" />
+        <mark key="[" line="6" column="32" />
+      </file>
+      <file name="/ssd2/code/springmvc-gwt/src/main/java/com/grigoriyalexeev/springmvcgwt/client/MyService.java" timestamp="1414312716210">
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="[" line="5" column="7" />
+      </file>
+      <file name="/ssd2/code/springmvc-gwt/src/main/java/com/grigoriyalexeev/springmvcgwt/client/MyServiceAsync.java" timestamp="1414312697069">
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="[" line="5" column="7" />
+      </file>
+      <file name="/ssd2/code/gwt-spring-2/src/main/java/com/mySampleApplication/client/shared/MyModel.java" timestamp="1414321274697">
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/app/views/index.scala.html" timestamp="1423158765390">
+        <mark key="'" line="24" column="56" />
+        <mark key="]" line="14" column="52" />
+        <mark key="^" line="14" column="64" />
+        <mark key="." line="14" column="52" />
+        <mark key="[" line="14" column="52" />
+      </file>
+      <file name="/ssd2/code/concertTickets/build.sbt" timestamp="1420811655970">
+        <mark key="]" line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+        <mark key="[" line="4" column="24" />
+      </file>
+      <file name="db-console:/bf3226cd/33503a68-34cb-470e-8cc0-357be5851b70/" timestamp="1422726224283">
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="[" line="7" column="26" />
+      </file>
+      <file name="/ssd2/code/progfun_assignments/example/src/test/scala/example/ListsSuite.scala" timestamp="1420143672697">
+        <mark key="]" line="120" column="10" />
+        <mark key="^" line="120" column="10" />
+        <mark key="." line="120" column="10" />
+        <mark key="[" line="120" column="8" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/app/models/Task.scala" timestamp="1423217323157">
+        <mark key="'" line="25" column="6" />
+        <mark key="]" line="27" column="34" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="[" line="27" column="34" />
+      </file>
+      <file name="/ssd2/code/gwt-spring-2/src/main/java/com/mySampleApplication/client/view/FirstView.java" timestamp="1414321830794">
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/ws.securesocial/securesocial_2.11/srcs/securesocial_2.11-3.0-M2-sources.jar!/securesocial/controllers/Registration.scala" timestamp="1422912413884">
+        <mark key="'" line="105" column="6" />
+      </file>
+      <file name="/ssd2/code/gwt-project/.gitignore" timestamp="1414188795647">
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="[" line="2" column="6" />
+      </file>
+      <file name="db-console:/1adc054b/12ef2c4b-3555-44f3-992f-78f1f4efe65a/" timestamp="1415474690258">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/progfun/lectures/src/week3/List.scala" timestamp="1420489963176">
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="33" column="0" />
+        <mark key="[" line="33" column="0" />
+      </file>
+      <file name="/ssd2/code/mnemonic-numbers-rus/src/com/grigoriyalexeev/mnemonics/ParsingUtils.java" timestamp="1414966935722">
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="[" line="12" column="17" />
+      </file>
+      <file name="/ssd2/code/todo_proj/smart-todo/src/main/resources/META-INF/application-context.xml" timestamp="1426973192688">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="/ssd2/code/todo_proj/smart-todo-java/pom.xml" timestamp="1426968622520">
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="[" line="10" column="32" />
+      </file>
+      <file name="/dummy.sql" timestamp="1426967454581">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/gwt-project/gwt-project-webapp/src/.gitignore" timestamp="1414228277454">
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="[" line="28" column="5" />
+      </file>
+      <file name="/Scala Console" timestamp="1420144354461">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/gwt-spring-2/src/main/java/com/mySampleApplication/MySampleApplication.gwt.xml" timestamp="1414868133168">
+        <mark key="[" line="17" column="119" />
+      </file>
+      <file name="/ssd2/code/spring-boot-start-web/pom.xml" timestamp="1416333432474">
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="[" line="19" column="13" />
+      </file>
+      <file name="/ssd2/code/gwt-spring-2/src/main/java/com/mySampleApplication/client/event/MyEventHandler.java" timestamp="1414322589993">
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="[" line="7" column="7" />
+      </file>
+      <file name="/ssd2/code/progfun/src/week1/session.sc" timestamp="1420138511009">
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="[" line="1" column="20" />
+      </file>
+      <file name="/ssd2/code/mnemonic-numbers-rus/src/com/grigoriyalexeev/mnemonics/DictUtils.java" timestamp="1414962396851">
+        <mark key="]" line="35" column="9" />
+        <mark key="^" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+        <mark key="[" line="35" column="4" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/conf/application.conf" timestamp="1423162666320">
+        <mark key="'" line="63" column="25" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="[" line="14" column="21" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/build.sbt" timestamp="1423160753326">
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/conf/evolutions/default/2.sql" timestamp="1423165406155">
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="[" line="8" column="13" />
+      </file>
+      <file name="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/Place.scala" timestamp="1421273710345">
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.3.7-sources.jar!/play/api/data/Forms.scala" timestamp="1421875842420">
+        <mark key="'" line="224" column="0" />
+      </file>
+      <file name="/ssd2/code/progfun_assignments/example/src/main/scala/example/Lists.scala" timestamp="1420143597856">
+        <mark key="]" line="37" column="22" />
+        <mark key="^" line="62" column="5" />
+        <mark key="." line="37" column="0" />
+        <mark key="[" line="37" column="0" />
+      </file>
+      <file name="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/Composer.scala" timestamp="1420812321954">
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="/ssd2/code/todo_proj/smart-todo/src/main/java/com/grigoriyalexeev/smarttodo/xml/SampleSpringXmlApplication.java" timestamp="1426972054797">
+        <mark key="]" line="30" column="128" />
+        <mark key="." line="30" column="83" />
+        <mark key="[" line="30" column="83" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/Procfile" timestamp="1422725043287">
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="[" line="0" column="31" />
+      </file>
+      <file name="/ssd2/code/gwt-spring-2/src/main/java/com/mySampleApplication/server/MyServiceImpl.java" timestamp="1415475289808">
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="0" column="24" />
+        <mark key="[" line="0" column="24" />
+      </file>
+      <file name="/ssd2/code/gwt-spring-2/src/main/java/com/mySampleApplication/server/TestDao.java" timestamp="1415475332313">
+        <mark key="[" line="5" column="22" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/app/views/main.scala.html" timestamp="1423161786729">
+        <mark key="'" line="8" column="0" />
+        <mark key="]" line="8" column="108" />
+        <mark key="^" line="18" column="73" />
+        <mark key="." line="18" column="73" />
+        <mark key="[" line="8" column="57" />
+      </file>
+      <file name="/ssd2/code/contacts/src/main/java/com/google/gwt/sample/contacts/client/Contacts.java" timestamp="1414326238869">
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="[" line="10" column="49" />
+      </file>
+      <file name="/ssd2/code/spring-boot-start-web/Procfile" timestamp="1416317166577">
+        <mark key="]" line="0" column="104" />
+        <mark key="^" line="0" column="104" />
+        <mark key="." line="0" column="104" />
+        <mark key="[" line="0" column="54" />
+      </file>
+      <file name="/ssd2/code/concertTickets/src/main/scala/Concert.scala" timestamp="1420811473389">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="27" />
+      </file>
+      <file name="/ssd2/code/progfun/lectures/src/week3/Hello.scala" timestamp="1420391609994">
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="6" column="32" />
+        <mark key="[" line="6" column="32" />
+      </file>
+      <file name="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/Address.scala" timestamp="1421187789104">
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="76" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/conf/routes" timestamp="1423159263479">
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="[" line="14" column="28" />
+      </file>
+      <file name="/ssd2/code/gwt-project/gwt-project-webapp/pom.xml" timestamp="1414233059118">
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="23" />
+        <mark key="[" line="17" column="23" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/app/views/horizontalFormTB.scala.html" timestamp="1422988796452">
+        <mark key="]" line="3" column="52" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="3" column="52" />
+        <mark key="[" line="3" column="52" />
+      </file>
+      <file name="/ssd2/code/spring-boot-start-web/src/main/java/com/grigoriyalexeev/springbootweb/SampleController.java" timestamp="1415531601327">
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="[" line="21" column="22" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/conf/play.plugins" timestamp="1423159566222">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/gwt-spring-2/src/main/java/com/mySampleApplication/client/presenter/Presenter.java" timestamp="1414322028865">
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="[" line="8" column="4" />
+      </file>
+      <file name="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/CalendarEvent.scala" timestamp="1421187800548">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="/ssd2/code/springmvc-gwt/src/main/java/com/grigoriyalexeev/springmvcgwt/client/MyGwtModule.java" timestamp="1414259155050">
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="13" />
+        <mark key="[" line="8" column="13" />
+      </file>
+      <file name="/ssd2/code/progfun/lectures/src/week2/session3.sc" timestamp="1420371509113">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/logs/application.log" timestamp="1423161034012">
+        <mark key="]" line="22" column="70" />
+        <mark key="[" line="22" column="15" />
+      </file>
+      <file name="/ssd2/code/progfun/lectures/src/week2/exercise1.sc" timestamp="1420294927220">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="15" />
+      </file>
+      <file name="/ssd2/code/progfun_assignments/example/src/main/scala/Main.scala" timestamp="1420144390088">
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="[" line="8" column="26" />
+      </file>
+      <file name="/ssd2/code/contacts/war/WEB-INF/dispatcher-servlet.xml" timestamp="1414250927809">
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="6" column="72" />
+        <mark key="." line="10" column="9" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="/ssd2/code/gwt-spring-2/src/main/java/com/mySampleApplication/client/presenter/FirstPresenter.java" timestamp="1414830885505">
+        <mark key="]" line="39" column="10" />
+        <mark key="^" line="39" column="10" />
+        <mark key="." line="39" column="10" />
+        <mark key="[" line="39" column="10" />
+      </file>
+      <file name="/ssd2/code/todo_proj/smart-todo/src/main/java/com/grigoriyalexeev/smarttodo/xml/HelloController.java" timestamp="1426973565081">
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="[" line="9" column="8" />
+      </file>
+      <file name="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/Concert.scala" timestamp="1421189366173">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/app/controllers/CustomLoginController.scala" timestamp="1423159182076">
+        <mark key="'" line="16" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="[" line="14" column="1" />
+      </file>
+      <file name="/ssd2/code/mnemonic-numbers-rus/src/com/grigoriyalexeev/mnemonics/MnemonicNumberConverter.java" timestamp="1414965443584">
+        <mark key="]" line="55" column="45" />
+        <mark key="^" line="55" column="45" />
+        <mark key="." line="55" column="45" />
+        <mark key="[" line="55" column="37" />
+      </file>
+      <file name="/ssd2/code/progfun_assignments/week1_recfun/src/main/scala/recfun/Main.scala" timestamp="1420194325033">
+        <mark key="]" line="71" column="100" />
+        <mark key="^" line="71" column="100" />
+        <mark key="." line="71" column="100" />
+        <mark key="[" line="71" column="96" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/conf/evolutions/default/1.sql" timestamp="1423155091042">
+        <mark key="'" line="4" column="0" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1426973814010">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/todo_proj/smart-todo/pom.xml" timestamp="1426973348460">
+        <mark key="'" line="36" column="4" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/ws.securesocial/securesocial_2.11/srcs/securesocial_2.11-master-SNAPSHOT-sources.jar!/securesocial/core/RuntimeEnvironment.scala" timestamp="1423209326207">
+        <mark key="]" line="83" column="96" />
+        <mark key="[" line="83" column="0" />
+      </file>
+      <file name="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/Main.scala" timestamp="1421273634308">
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="[" line="8" column="86" />
+      </file>
+      <file name="/a.sql" timestamp="1422717013058">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/gwt-project/pom.xml" timestamp="1414190691781">
+        <mark key="]" line="92" column="55" />
+        <mark key="^" line="92" column="55" />
+        <mark key="." line="92" column="55" />
+        <mark key="[" line="92" column="12" />
+      </file>
+      <file name="/ssd2/code/springmvc-gwt/src/main/java/com/grigoriyalexeev/springmvcgwt/client/presenter/MyPresenter.java" timestamp="1414313171881">
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1426973798949">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/install_dotfiles/untitled/src/install.sh" timestamp="1416320572130">
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="[" line="9" column="14" />
+      </file>
+      <file name="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" timestamp="1420551862989">
+        <mark key="'" line="59" column="59" />
+        <mark key="[" line="53" column="32" />
+      </file>
+      <file name="/ssd2/code/progfun/lectures/src/chefAndStones.sc" timestamp="1420301010375">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="1" column="49" />
+        <mark key="." line="1" column="44" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/ConcertHall.scala" timestamp="1421188459103">
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="[" line="2" column="17" />
+      </file>
+      <file name="[test_db] CONSOLE - test_db" timestamp="1415475068912">
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="[" line="0" column="14" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/app/service/MyEventListener.scala" timestamp="1423153842633">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="4" column="22" />
+      </file>
+      <file name="/ssd2/code/todo_proj/smart-todo/src/main/java/com/grigoriyalexeev/smarttodo/xml/Application.java" timestamp="1427011451120">
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="[" line="16" column="31" />
+      </file>
+      <file name="/ssd2/code/mnemonic-numbers-rus/src/com/grigoriyalexeev/mnemonics/IOUtils.java" timestamp="1414967811092">
+        <mark key="]" line="39" column="60" />
+        <mark key="^" line="39" column="60" />
+        <mark key="." line="39" column="60" />
+        <mark key="[" line="39" column="58" />
+      </file>
+      <file name="/ssd2/code/todo_proj/todolist/app/Global.scala" timestamp="1423209369036">
+        <mark key="'" line="10" column="22" />
+        <mark key="[" line="21" column="3" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="44" column="49" filename="/ssd2/code/progfun/lectures/src/chefAndStonesScript.scala" />
+      <jump line="14" column="4" filename="/ssd2/code/progfun/lectures/src/chefAndStonesScript.scala" />
+      <jump line="20" column="9" filename="/ssd2/code/progfun/lectures/src/chefAndStonesScript.scala" />
+      <jump line="26" column="0" filename="/ssd2/code/progfun/lectures/src/chefAndStonesScript.scala" />
+      <jump line="43" column="0" filename="/ssd2/code/progfun/lectures/src/chefAndStonesScript.scala" />
+      <jump line="42" column="0" filename="/ssd2/code/progfun/lectures/src/chefAndStonesScript.scala" />
+      <jump line="1" column="12" filename="/ssd2/code/progfun/lectures/src/chefAndStonesScript.scala" />
+      <jump line="44" column="22" filename="/ssd2/code/progfun/lectures/src/Main.scala" />
+      <jump line="13" column="67" filename="/ssd2/code/progfun/lectures/src/Main.scala" />
+      <jump line="22" column="100" filename="/ssd2/code/progfun/lectures/src/Main.scala" />
+      <jump line="9" column="0" filename="/ssd2/code/progfun/lectures/src/week2/rationals.sc" />
+      <jump line="14" column="0" filename="/ssd2/code/progfun/lectures/src/week2/rationals.sc" />
+      <jump line="0" column="0" filename="/ssd2/code/progfun/lectures/src/week2/rationals.sc" />
+      <jump line="13" column="0" filename="/ssd2/code/progfun/lectures/src/week2/rationals.sc" />
+      <jump line="1" column="0" filename="/ssd2/code/progfun/lectures/src/week2/rationals.sc" />
+      <jump line="24" column="0" filename="/ssd2/code/progfun/lectures/src/week2/rationals.sc" />
+      <jump line="39" column="49" filename="/ssd2/code/progfun/lectures/src/week2/rationals.sc" />
+      <jump line="73" column="2" filename="/ssd2/code/progfun/assignments/week2_funsets/src/main/scala/funsets/FunSets.scala" />
+      <jump line="114" column="52" filename="/ssd2/code/progfun/assignments/week2_funsets/src/test/scala/funsets/FunSetSuite.scala" />
+      <jump line="2" column="19" filename="/ssd2/code/progfun/lectures/src/week3/intsets.sc" />
+      <jump line="3" column="0" filename="/ssd2/code/progfun/lectures/src/week3/intsets.sc" />
+      <jump line="29" column="0" filename="/ssd2/code/progfun/lectures/src/week3/intsets.sc" />
+      <jump line="4" column="0" filename="/ssd2/code/progfun/lectures/src/week3/intsets.sc" />
+      <jump line="144" column="25" filename="/ssd2/code/progfun/assignments/week3_objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="187" column="0" filename="/ssd2/code/progfun/assignments/week3_objsets/src/main/scala/objsets/TweetSet.scala" />
+      <jump line="17" column="10" filename="/ssd2/code/progfun/assignments/week3_objsets/src/test/scala/objsets/TweetSetSuite.scala" />
+      <jump line="3" column="0" filename="/ssd2/code/progfun/lectures/src/week4/List.scala" />
+      <jump line="28" column="0" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="0" column="0" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="9" column="31" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="46" column="58" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="53" column="19" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="55" column="45" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="57" column="46" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="60" column="65" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="10" column="0" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="47" column="16" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="59" column="59" filename="/ssd2/code/progfun/lectures/src/week3/testUnion.sc" />
+      <jump line="25" column="0" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/Boolean.scala" />
+      <jump line="24" column="0" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/Boolean.scala" />
+      <jump line="0" column="0" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/Boolean.scala" />
+      <jump line="33" column="0" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/Boolean.scala" />
+      <jump line="19" column="2" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/session3.sc" />
+      <jump line="0" column="16" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/session3.sc" />
+      <jump line="29" column="0" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/session3.sc" />
+      <jump line="2" column="0" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/Boolean.scala" />
+      <jump line="26" column="2" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/Boolean.scala" />
+      <jump line="52" column="39" filename="/ssd2/code/progfun/lectures/src/week4/idealized/scala/session3.sc" />
+      <jump line="3" column="43" filename="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/Util.scala" />
+      <jump line="17" column="37" filename="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/Util.scala" />
+      <jump line="26" column="58" filename="/ssd2/code/concertTickets/src/main/scala/com/grigoriyalexeev/concertTickets/Util.scala" />
+      <jump line="3" column="61" filename="/ssd2/code/todo_proj/todolist/app/views/index.scala.html" />
+      <jump line="5" column="0" filename="/ssd2/code/todo_proj/todolist/app/models/Task.scala" />
+      <jump line="5" column="5" filename="/ssd2/code/todo_proj/todolist/.gitignore" />
+      <jump line="224" column="0" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.3.7-sources.jar!/play/api/data/Forms.scala" />
+      <jump line="19" column="19" filename="/ssd2/code/todo_proj/todolist/app/controllers/Application.scala" />
+      <jump line="0" column="0" filename="/ssd2/code/todo_proj/todolist/app/controllers/Application.scala" />
+      <jump line="3" column="0" filename="/ssd2/code/todo_proj/todolist/app/controllers/Application.scala" />
+      <jump line="13" column="6" filename="/ssd2/code/todo_proj/todolist/app/models/Task.scala" />
+      <jump line="31" column="38" filename="/ssd2/code/todo_proj/todolist/app/controllers/Application.scala" />
+      <jump line="33" column="0" filename="/ssd2/code/todo_proj/todolist/app/controllers/Application.scala" />
+      <jump line="9" column="15" filename="/ssd2/code/todo_proj/todolist/app/views/index.scala.html" />
+      <jump line="0" column="0" filename="/ssd2/code/todo_proj/todolist/app/views/index.scala.html" />
+      <jump line="4" column="0" filename="/ssd2/code/todo_proj/todolist/conf/evolutions/default/1.sql" />
+      <jump line="8" column="0" filename="/ssd2/code/todo_proj/todolist/app/views/main.scala.html" />
+      <jump line="20" column="13" filename="/ssd2/code/todo_proj/todolist/app/views/index.scala.html" />
+      <jump line="35" column="92" filename="/ssd2/code/todo_proj/todolist/conf/routes" />
+      <jump line="31" column="0" filename="/ssd2/code/todo_proj/todolist/conf/routes" />
+      <jump line="19" column="0" filename="/ssd2/code/todo_proj/todolist/conf/routes" />
+      <jump line="15" column="66" filename="/ssd2/code/todo_proj/todolist/conf/routes" />
+      <jump line="161" column="70" filename="/ssd2/code/todo_proj/todolist/app/service/InMemoryUserService.scala" />
+      <jump line="157" column="70" filename="/ssd2/code/todo_proj/todolist/app/service/InMemoryUserService.scala" />
+      <jump line="41" column="15" filename="/ssd2/code/todo_proj/todolist/conf/application.conf" />
+      <jump line="0" column="0" filename="/ssd2/code/todo_proj/todolist/conf/application.conf" />
+      <jump line="51" column="26" filename="$USER_HOME$/.ivy2/cache/ws.securesocial/securesocial_2.11/srcs/securesocial_2.11-3.0-M2-sources.jar!/securesocial/controllers/Registration.scala" />
+      <jump line="105" column="6" filename="$USER_HOME$/.ivy2/cache/ws.securesocial/securesocial_2.11/srcs/securesocial_2.11-3.0-M2-sources.jar!/securesocial/controllers/Registration.scala" />
+      <jump line="29" column="22" filename="/ssd2/code/todo_proj/todolist/app/service/InMemoryUserService.scala" />
+      <jump line="24" column="56" filename="/ssd2/code/todo_proj/todolist/app/views/index.scala.html" />
+      <jump line="2" column="0" filename="/ssd2/code/todo_proj/todolist/app/service/InMemoryUserService.scala" />
+      <jump line="142" column="0" filename="/ssd2/code/todo_proj/todolist/app/service/InMemoryUserService.scala" />
+      <jump line="0" column="0" filename="/ssd2/code/todo_proj/todolist/app/service/InMemoryUserService.scala" />
+      <jump line="45" column="1" filename="/ssd2/code/todo_proj/todolist/app/service/InMemoryUserService.scala" />
+      <jump line="96" column="1" filename="/ssd2/code/todo_proj/todolist/app/service/InMemoryUserService.scala" />
+      <jump line="8" column="0" filename="/ssd2/code/todo_proj/todolist/app/service/MyEventListener.scala" />
+      <jump line="0" column="0" filename="/ssd2/code/todo_proj/todolist/app/service/MyEventListener.scala" />
+      <jump line="0" column="0" filename="/ssd2/code/todo_proj/todolist/conf/securesocial.conf" />
+      <jump line="210" column="0" filename="/ssd2/code/todo_proj/todolist/conf/securesocial.conf" />
+      <jump line="69" column="0" filename="/ssd2/code/todo_proj/todolist/conf/securesocial.conf" />
+      <jump line="173" column="0" filename="/ssd2/code/todo_proj/todolist/conf/securesocial.conf" />
+      <jump line="99" column="0" filename="/ssd2/code/todo_proj/todolist/conf/securesocial.conf" />
+      <jump line="177" column="21" filename="/ssd2/code/todo_proj/todolist/conf/securesocial.conf" />
+      <jump line="10" column="22" filename="/ssd2/code/todo_proj/todolist/app/Global.scala" />
+      <jump line="2" column="0" filename="/ssd2/code/todo_proj/todolist/app/controllers/CustomLoginController.scala" />
+      <jump line="0" column="0" filename="/ssd2/code/todo_proj/todolist/app/controllers/CustomLoginController.scala" />
+      <jump line="16" column="0" filename="/ssd2/code/todo_proj/todolist/app/controllers/CustomLoginController.scala" />
+      <jump line="136" column="16" filename="/ssd2/code/todo_proj/todolist/conf/securesocial.conf" />
+      <jump line="63" column="25" filename="/ssd2/code/todo_proj/todolist/conf/application.conf" />
+      <jump line="131" column="0" filename="/ssd2/code/todo_proj/smart-todo/pom.xml" />
+      <jump line="0" column="0" filename="/ssd2/code/todo_proj/smart-todo/pom.xml" />
+      <jump line="36" column="4" filename="/ssd2/code/todo_proj/smart-todo/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>org.springframework.context.</text>
+      </register>
+      <register name="3" type="4">
+        <text>ApplicationContext</text>
+      </register>
+      <register name="2" type="4">
+        <text>k</text>
+      </register>
+      <register name="1" type="4">
+        <text>org.springframework.context.</text>
+      </register>
+      <register name="0" type="4">
+        <text>&quot;classpath:/META-INF/application-context.xml&quot;</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+Cgk8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+Cgk8cGFyZW50PgoJCTwhLS0gWW91ciBvd24gYXBwbGljYXRpb24gc2hvdWxkIGluaGVyaXQgZnJvbSBzcHJpbmctYm9vdC1zdGFydGVyLXBhcmVudCAtLT4KCQk8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CgkJPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1wYXJlbnQ8L2FydGlmYWN0SWQ+CgkJPHZlcnNpb24+MS4wLjIuUkVMRUFTRTwvdmVyc2lvbj4KCTwvcGFyZW50PgoJPGFydGlmYWN0SWQ+c21hcnQtdG9kbzwvYXJ0aWZhY3RJZD4KCTxncm91cElkPmNvbS5ncmlnb3JpeWFsZXhlZXYuc21hcnR0b2RvPC9ncm91cElkPgoJPG5hbWU+U3ByaW5nIEJvb3QgWE1MIFNhbXBsZTwvbmFtZT4KCTxkZXNjcmlwdGlvbj5TcHJpbmcgQm9vdCBYTUwgU2FtcGxlPC9kZXNjcmlwdGlvbj4KCTx2ZXJzaW9uPjEuMC1TTkFQU0hPVDwvdmVyc2lvbj4KCTx1cmw+aHR0cDovL3Byb2plY3RzLnNwcmluZy5pby9zcHJpbmctYm9vdC88L3VybD4KCTxvcmdhbml6YXRpb24+CgkJPG5hbWU+UGl2b3RhbCBTb2Z0d2FyZSwgSW5jLjwvbmFtZT4KCQk8dXJsPmh0dHA6Ly93d3cuc3ByaW5nLmlvPC91cmw+Cgk8L29yZ2FuaXphdGlvbj4KCTxwcm9wZXJ0aWVzPgoJCTxtYWluLmJhc2VkaXI+JHtiYXNlZGlyfS8uLi8uLjwvbWFpbi5iYXNlZGlyPgoJPC9wcm9wZXJ0aWVzPgoJPGRlcGVuZGVuY2llcz4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXRlc3Q8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cgk8L2RlcGVuZGVuY2llcz4KCTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgoJPC9idWlsZD4KCkhvbWUKR3VpZGVzClByb2plY3RzCkJsb2cKUXVlc3Rpb25zCkJ1aWxkaW5nIGFuIEFwcGxpY2F0aW9uIHdpdGggU3ByaW5nIEJvb3QKClRoaXMgZ3VpZGUgcHJvdmlkZXMgYSBzYW1wbGluZyBvZiBob3cgU3ByaW5nIEJvb3QgaGVscHMgeW91IGFjY2VsZXJhdGUgYW5kIGZhY2lsaXRhdGUgYXBwbGljYXRpb24gZGV2ZWxvcG1lbnQuIEFzIHlvdSByZWFkIG1vcmUgU3ByaW5nIEdldHRpbmcgU3RhcnRlZCBndWlkZXMsIHlvdSB3aWxsIHNlZSBtb3JlIHVzZSBjYXNlcyBmb3IgU3ByaW5nIEJvb3QuIEl0IGlzIG1lYW50IHRvIGdpdmUgeW91IGEgcXVpY2sgdGFzdGUgb2YgU3ByaW5nIEJvb3QuIElmIHlvdSB3YW50IHRvIGNyZWF0ZSB5b3VyIG93biBTcHJpbmcgQm9vdC1iYXNlZCBwcm9qZWN0LCB2aXNpdCBTcHJpbmcgSW5pdGlhbGl6ciwgZmlsbCBpbiB5b3VyIHByb2plY3QgZGV0YWlscywgcGljayB5b3VyIG9wdGlvbnMsIGFuZCB5b3UgY2FuIGRvd25sb2FkIGVpdGhlciBhIE1hdmVuIGJ1aWxkIGZpbGUsIG9yIGEgYnVuZGxlZCB1cCBwcm9qZWN0IGFzIGEgemlwIGZpbGUuCldoYXQgeW914oCZbGwgYnVpbGQKCllvdeKAmWxsIGJ1aWxkIGEgc2ltcGxlIHdlYiBhcHBsaWNhdGlvbiB3aXRoIFNwcmluZyBCb290IGFuZCBhZGQgc29tZSB1c2VmdWwgc2VydmljZXMgdG8gaXQuCldoYXQgeW914oCZbGwgbmVlZAoKICAgIEFib3V0IDE1IG1pbnV0ZXMKCiAgICBBIGZhdm9yaXRlIHRleHQgZWRpdG9yIG9yIElERQoKICAgIEpESyAxLjcgb3IgbGF0ZXIKCiAgICBHcmFkbGUgMi4zKyBvciBNYXZlbiAzLjArCgogICAgWW91IGNhbiBhbHNvIGltcG9ydCB0aGUgY29kZSBmcm9tIHRoaXMgZ3VpZGUgYXMgd2VsbCBhcyB2aWV3IHRoZSB3ZWIgcGFnZSBkaXJlY3RseSBpbnRvIFNwcmluZyBUb29sIFN1aXRlIChTVFMpIGFuZCB3b3JrIHlvdXIgd2F5IHRocm91Z2ggaXQgZnJvbSB0aGVyZS4KCkhvdyB0byBjb21wbGV0ZSB0aGlzIGd1aWRlCgpMaWtlIG1vc3QgU3ByaW5nIEdldHRpbmcgU3RhcnRlZCBndWlkZXMsIHlvdSBjYW4gc3RhcnQgZnJvbSBzY3JhdGNoIGFuZCBjb21wbGV0ZSBlYWNoIHN0ZXAsIG9yIHlvdSBjYW4gYnlwYXNzIGJhc2ljIHNldHVwIHN0ZXBzIHRoYXQgYXJlIGFscmVhZHkgZmFtaWxpYXIgdG8geW91LiBFaXRoZXIgd2F5LCB5b3UgZW5kIHVwIHdpdGggd29ya2luZyBjb2RlLgoKVG8gc3RhcnQgZnJvbSBzY3JhdGNoLCBtb3ZlIG9uIHRvIEJ1aWxkIHdpdGggR3JhZGxlLgoKVG8gc2tpcCB0aGUgYmFzaWNzLCBkbyB0aGUgZm9sbG93aW5nOgoKICAgIERvd25sb2FkIGFuZCB1bnppcCB0aGUgc291cmNlIHJlcG9zaXRvcnkgZm9yIHRoaXMgZ3VpZGUsIG9yIGNsb25lIGl0IHVzaW5nIEdpdDogZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9zcHJpbmctZ3VpZGVzL2dzLXNwcmluZy1ib290LmdpdAoKICAgIGNkIGludG8gZ3Mtc3ByaW5nLWJvb3QvaW5pdGlhbAoKICAgIEp1bXAgYWhlYWQgdG8gW2luaXRpYWxdLgoKV2hlbiB5b3XigJlyZSBmaW5pc2hlZCwgeW91IGNhbiBjaGVjayB5b3VyIHJlc3VsdHMgYWdhaW5zdCB0aGUgY29kZSBpbiBncy1zcHJpbmctYm9vdC9jb21wbGV0ZS4KQnVpbGQgd2l0aCBHcmFkbGUKQnVpbGQgd2l0aCBNYXZlbgoKRmlyc3QgeW91IHNldCB1cCBhIGJhc2ljIGJ1aWxkIHNjcmlwdC4gWW91IGNhbiB1c2UgYW55IGJ1aWxkIHN5c3RlbSB5b3UgbGlrZSB3aGVuIGJ1aWxkaW5nIGFwcHMgd2l0aCBTcHJpbmcsIGJ1dCB0aGUgY29kZSB5b3UgbmVlZCB0byB3b3JrIHdpdGggTWF2ZW4gaXMgaW5jbHVkZWQgaGVyZS4gSWYgeW914oCZcmUgbm90IGZhbWlsaWFyIHdpdGggTWF2ZW4sIHJlZmVyIHRvIEJ1aWxkaW5nIEphdmEgUHJvamVjdHMgd2l0aCBNYXZlbi4KQ3JlYXRlIHRoZSBkaXJlY3Rvcnkgc3RydWN0dXJlCgpJbiBhIHByb2plY3QgZGlyZWN0b3J5IG9mIHlvdXIgY2hvb3NpbmcsIGNyZWF0ZSB0aGUgZm9sbG93aW5nIHN1YmRpcmVjdG9yeSBzdHJ1Y3R1cmU7IGZvciBleGFtcGxlLCB3aXRoIG1rZGlyIC1wIHNyYy9tYWluL2phdmEvaGVsbG8gb24gKm5peCBzeXN0ZW1zOgoK4pSU4pSA4pSAIHNyYwogICAg4pSU4pSA4pSAIG1haW4KICAgICAgICDilJTilIDilIAgamF2YQogICAgICAgICAgICDilJTilIDilIAgaGVsbG8KCnBvbS54bWwKCjw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+Cjxwcm9qZWN0IHhtbG5zPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCiAgICB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCBodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy94c2QvbWF2ZW4tNC4wLjAueHNkIj4KICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj5tb2RlbFZlcnNpb24+CgogICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD5ncm91cElkPgogICAgPGFydGlmYWN0SWQ+Z3Mtc3ByaW5nLWJvb3Q8L2FydGlmYWN0SWQ+YXJ0aWZhY3RJZD4KICAgIDx2ZXJzaW9uPjAuMS4wPC92ZXJzaW9uPnZlcnNpb24+CgogICAgPHBhcmVudD4KICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+Z3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXBhcmVudDwvYXJ0aWZhY3RJZD5hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjEuMi4yLlJFTEVBU0U8L3ZlcnNpb24+dmVyc2lvbj4KICAgIDwvcGFyZW50PnBhcmVudD4KCiAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+Z3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWI8L2FydGlmYWN0SWQ+YXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+ZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPmRlcGVuZGVuY2llcz4KCiAgICA8cHJvcGVydGllcz4KICAgICAgICA8amF2YS52ZXJzaW9uPjEuNzwvamF2YS52ZXJzaW9uPmphdmEudmVyc2lvbj4KICAgIDwvcHJvcGVydGllcz5wcm9wZXJ0aWVzPgoKCiAgICA8YnVpbGQ+CiAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+Z3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD5hcnRpZmFjdElkPgogICAgICAgICAgICA8L3BsdWdpbj5wbHVnaW4+CiAgICAgICAgPC9wbHVnaW5zPnBsdWdpbnM+CiAgICA8L2J1aWxkPmJ1aWxkPgoKPC9wcm9qZWN0PnByb2plY3Q+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PC9wcm9qZWN0Pgo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PC9hcnRpZmFjdElkPjwvZ3JvdXBJZD48L3BsdWdpbj48L3BsdWdpbnM+PC9idWlsZD48L2phdmEudmVyc2lvbj48L3Byb3BlcnRpZXM+PC9hcnRpZmFjdElkPjwvZ3JvdXBJZD48L2RlcGVuZGVuY3k+PC9kZXBlbmRlbmNpZXM+PC92ZXJzaW9uPjwvYXJ0aWZhY3RJZD48L2dyb3VwSWQ+PC9wYXJlbnQ+PC92ZXJzaW9uPjwvYXJ0aWZhY3RJZD48L2dyb3VwSWQ+PC9tb2RlbFZlcnNpb24+PC9wcm9qZWN0Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>x</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIEhvbWUKICAgIEd1aWRlcwogICAgUHJvamVjdHMKICAgIEJsb2cKICAgIFF1ZXN0aW9ucwogICAgQnVpbGRpbmcgYW4gQXBwbGljYXRpb24gd2l0aCBTcHJpbmcgQm9vdAoKICAgIFRoaXMgZ3VpZGUgcHJvdmlkZXMgYSBzYW1wbGluZyBvZiBob3cgU3ByaW5nIEJvb3QgaGVscHMgeW91IGFjY2VsZXJhdGUgYW5kIGZhY2lsaXRhdGUgYXBwbGljYXRpb24gZGV2ZWxvcG1lbnQuIEFzIHlvdSByZWFkIG1vcmUgU3ByaW5nIEdldHRpbmcgU3RhcnRlZCBndWlkZXMsIHlvdSB3aWxsIHNlZSBtb3JlIHVzZSBjYXNlcyBmb3IgU3ByaW5nIEJvb3QuIEl0IGlzIG1lYW50IHRvIGdpdmUgeW91IGEgcXVpY2sgdGFzdGUgb2YgU3ByaW5nIEJvb3QuIElmIHlvdSB3YW50IHRvIGNyZWF0ZSB5b3VyIG93biBTcHJpbmcgQm9vdC1iYXNlZCBwcm9qZWN0LCB2aXNpdCBTcHJpbmcgSW5pdGlhbGl6ciwgZmlsbCBpbiB5b3VyIHByb2plY3QgZGV0YWlscywgcGljayB5b3VyIG9wdGlvbnMsIGFuZCB5b3UgY2FuIGRvd25sb2FkIGVpdGhlciBhIE1hdmVuIGJ1aWxkIGZpbGUsIG9yIGEgYnVuZGxlZCB1cCBwcm9qZWN0IGFzIGEgemlwIGZpbGUuCiAgICBXaGF0IHlvdeKAmWxsIGJ1aWxkCgogICAgWW914oCZbGwgYnVpbGQgYSBzaW1wbGUgd2ViIGFwcGxpY2F0aW9uIHdpdGggU3ByaW5nIEJvb3QgYW5kIGFkZCBzb21lIHVzZWZ1bCBzZXJ2aWNlcyB0byBpdC4KICAgIFdoYXQgeW914oCZbGwgbmVlZAoKICAgIEFib3V0IDE1IG1pbnV0ZXMKCiAgICBBIGZhdm9yaXRlIHRleHQgZWRpdG9yIG9yIElERQoKICAgIEpESyAxLjcgb3IgbGF0ZXIKCiAgICBHcmFkbGUgMi4zKyBvciBNYXZlbiAzLjArCgogICAgWW91IGNhbiBhbHNvIGltcG9ydCB0aGUgY29kZSBmcm9tIHRoaXMgZ3VpZGUgYXMgd2VsbCBhcyB2aWV3IHRoZSB3ZWIgcGFnZSBkaXJlY3RseSBpbnRvIFNwcmluZyBUb29sIFN1aXRlIChTVFMpIGFuZCB3b3JrIHlvdXIgd2F5IHRocm91Z2ggaXQgZnJvbSB0aGVyZS4KCiAgICBIb3cgdG8gY29tcGxldGUgdGhpcyBndWlkZQoKICAgIExpa2UgbW9zdCBTcHJpbmcgR2V0dGluZyBTdGFydGVkIGd1aWRlcywgeW91IGNhbiBzdGFydCBmcm9tIHNjcmF0Y2ggYW5kIGNvbXBsZXRlIGVhY2ggc3RlcCwgb3IgeW91IGNhbiBieXBhc3MgYmFzaWMgc2V0dXAgc3RlcHMgdGhhdCBhcmUgYWxyZWFkeSBmYW1pbGlhciB0byB5b3UuIEVpdGhlciB3YXksIHlvdSBlbmQgdXAgd2l0aCB3b3JraW5nIGNvZGUuCgogICAgVG8gc3RhcnQgZnJvbSBzY3JhdGNoLCBtb3ZlIG9uIHRvIEJ1aWxkIHdpdGggR3JhZGxlLgoKICAgIFRvIHNraXAgdGhlIGJhc2ljcywgZG8gdGhlIGZvbGxvd2luZzoKCiAgICBEb3dubG9hZCBhbmQgdW56aXAgdGhlIHNvdXJjZSByZXBvc2l0b3J5IGZvciB0aGlzIGd1aWRlLCBvciBjbG9uZSBpdCB1c2luZyBHaXQ6IGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vc3ByaW5nLWd1aWRlcy9ncy1zcHJpbmctYm9vdC5naXQKCiAgICBjZCBpbnRvIGdzLXNwcmluZy1ib290L2luaXRpYWwKCiAgICBKdW1wIGFoZWFkIHRvIFtpbml0aWFsXS4KCiAgICBXaGVuIHlvdeKAmXJlIGZpbmlzaGVkLCB5b3UgY2FuIGNoZWNrIHlvdXIgcmVzdWx0cyBhZ2FpbnN0IHRoZSBjb2RlIGluIGdzLXNwcmluZy1ib290L2NvbXBsZXRlLgogICAgQnVpbGQgd2l0aCBHcmFkbGUKICAgIEJ1aWxkIHdpdGggTWF2ZW4KCiAgICBGaXJzdCB5b3Ugc2V0IHVwIGEgYmFzaWMgYnVpbGQgc2NyaXB0LiBZb3UgY2FuIHVzZSBhbnkgYnVpbGQgc3lzdGVtIHlvdSBsaWtlIHdoZW4gYnVpbGRpbmcgYXBwcyB3aXRoIFNwcmluZywgYnV0IHRoZSBjb2RlIHlvdSBuZWVkIHRvIHdvcmsgd2l0aCBNYXZlbiBpcyBpbmNsdWRlZCBoZXJlLiBJZiB5b3XigJlyZSBub3QgZmFtaWxpYXIgd2l0aCBNYXZlbiwgcmVmZXIgdG8gQnVpbGRpbmcgSmF2YSBQcm9qZWN0cyB3aXRoIE1hdmVuLgogICAgQ3JlYXRlIHRoZSBkaXJlY3Rvcnkgc3RydWN0dXJlCgogICAgSW4gYSBwcm9qZWN0IGRpcmVjdG9yeSBvZiB5b3VyIGNob29zaW5nLCBjcmVhdGUgdGhlIGZvbGxvd2luZyBzdWJkaXJlY3Rvcnkgc3RydWN0dXJlOyBmb3IgZXhhbXBsZSwgd2l0aCBta2RpciAtcCBzcmMvbWFpbi9qYXZhL2hlbGxvIG9uICpuaXggc3lzdGVtczoKCiAgICDilJTilIDilIAgc3JjCiAgICDilJTilIDilIAgbWFpbgogICAg4pSU4pSA4pSAIGphdmEKICAgIOKUlOKUgOKUgCBoZWxsbwoKICAgIHBvbS54bWw=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CiAgICA8cHJvamVjdCB4bWxucz0iaHR0cDovL21hdmVuLmFwYWNoZS5vcmcvUE9NLzQuMC4wIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIgogICAgICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICAgICAgPG1vZGVsVmVyc2lvbj40LjAuMDwvbW9kZWxWZXJzaW9uPgoKICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPmdzLXNwcmluZy1ib290PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjAuMS4wPC92ZXJzaW9uPgoKICAgICAgICA8cGFyZW50PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItcGFyZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjIuMi5SRUxFQVNFPC92ZXJzaW9uPgogICAgICAgIDwvcGFyZW50PgoKICAgICAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItd2ViPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPC9kZXBlbmRlbmNpZXM+CgogICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICA8amF2YS52ZXJzaW9uPjEuNzwvamF2YS52ZXJzaW9uPgogICAgICAgIDwvcHJvcGVydGllcz4KCgogICAgICAgIDxidWlsZD4KICAgICAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgPC9wbHVnaW5zPgogICAgICAgIDwvYnVpbGQ+CgogICAgPC9wcm9qZWN0Pg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>favicon</text>
+      </register>
+      <register name="-" type="4">
+        <text>org.springframework.context.</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>favicon</last-search>
+      <last-offset />
+      <last-pattern>favicon</last-pattern>
+      <last-replace>T</last-replace>
+      <last-substitute>AnyRef</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxiclw+</entry>
+        <entry encoding="base64">XDxESUdJVFNfVE9fTEVUVEVSU1w+</entry>
+        <entry>createPattern</entry>
+        <entry>formatMap</entry>
+        <entry encoding="base64">XDxhcHBlbmRUZXh0VG9GaWxlXD4=</entry>
+        <entry>*o</entry>
+        <entry>^*o</entry>
+        <entry>probable</entry>
+        <entry>empty</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry>::</entry>
+        <entry>AnyRef</entry>
+        <entry>T</entry>
+        <entry>S</entry>
+        <entry>[</entry>
+        <entry encoding="base64">XDxzcGxpdFw+</entry>
+        <entry encoding="base64">XDxwbGF5MjBcPg==</entry>
+        <entry>start</entry>
+        <entry encoding="base64">XDw0NzY3MTA3XD4=</entry>
+        <entry>favicon</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/AnyRef/T/g</entry>
+        <entry>set hlsearch</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
+        <entry>wa</entry>
+        <entry>x</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

@@ -1,0 +1,260 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="concertTickets" values="DEFAULT" />
+      <project id="bet-helper" values="DEFAULT" />
+      <project id="contacts" values="DEFAULT" />
+      <project id="gwt-project-webapp" values="DEFAULT" />
+      <project id="week2_funsets" values="DEFAULT" />
+      <project id="smart-todo" values="DEFAULT" />
+      <project id="reactive-stocks" values="DEFAULT" />
+      <project id="progfun-example" values="DEFAULT" />
+      <project id="smart-todo-java" values="DEFAULT" />
+      <project id="sharedfuncs" values="DEFAULT" />
+      <project id="progfun" values="DEFAULT" />
+      <project id="install_dotfiles" values="DEFAULT" />
+      <project id="gwt-project" values="DEFAULT" />
+      <project id="spring-boot-start-web" values="DEFAULT" />
+      <project id="todolist" values="DEFAULT" />
+      <project id="gwt-spring-2" values="DEFAULT" />
+      <project id="week3_objsets" values="DEFAULT" />
+      <project id="progfun-recfun" values="DEFAULT" />
+      <project id="springmvc-gwt" values="DEFAULT" />
+      <project id="mnemonic-numbers-rus" values="DEFAULT" />
+    </group>
+    <group name="module type">
+      <project id="concertTickets" values="SBT_MODULE,JAVA_MODULE" />
+      <project id="bet-helper" values="JAVA_MODULE" />
+      <project id="contacts" values="JAVA_MODULE" />
+      <project id="gwt-project-webapp" values="JAVA_MODULE" />
+      <project id="week2_funsets" values="SBT_MODULE,JAVA_MODULE" />
+      <project id="smart-todo" values="JAVA_MODULE" />
+      <project id="reactive-stocks" values="JAVA_MODULE,SBT_MODULE" />
+      <project id="progfun-example" values="JAVA_MODULE,SBT_MODULE" />
+      <project id="smart-todo-java" values="JAVA_MODULE" />
+      <project id="sharedfuncs" values="JAVA_MODULE" />
+      <project id="progfun" values="JAVA_MODULE" />
+      <project id="install_dotfiles" values="JAVA_MODULE" />
+      <project id="gwt-project" values="JAVA_MODULE" />
+      <project id="spring-boot-start-web" values="JAVA_MODULE" />
+      <project id="todolist" values="JAVA_MODULE,SBT_MODULE" />
+      <project id="gwt-spring-2" values="JAVA_MODULE" />
+      <project id="week3_objsets" values="JAVA_MODULE,SBT_MODULE" />
+      <project id="progfun-recfun" values="JAVA_MODULE,SBT_MODULE" />
+      <project id="springmvc-gwt" values="JAVA_MODULE" />
+      <project id="mnemonic-numbers-rus" values="JAVA_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="mnemonic-numbers-rus" values="Git" />
+      <project id="week2_funsets" values="Git" />
+      <project id="progfun-recfun" values="Git" />
+      <project id="progfun" values="Git" />
+      <project id="gwt-spring-2" values="Git" />
+      <project id="spring-boot-start-web" values="Git" />
+      <project id="todolist" values="Git" />
+      <project id="week3_objsets" values="Git" />
+      <project id="gwt-project" values="Git" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="install_dotfiles" values="BashConfigurationType" />
+      <project id="smart-todo" values="MavenRunConfiguration" />
+      <project id="contacts" values="GWT.ConfigurationType" />
+      <project id="gwt-project" values="GWT.ConfigurationType" />
+      <project id="gwt-spring-2" values="Application,GWT.ConfigurationType" />
+      <project id="spring-boot-start-web" values="heroku-deploy,Application" />
+      <project id="todolist" values="Play2FrameworkRunConfigurations" />
+      <project id="gwt-project-webapp" values="GWT.ConfigurationType" />
+    </group>
+    <group name="Scala">
+      <project id="concertTickets" values="Scala  2.11.5" />
+      <project id="week2_funsets" values="Scala  2.10.4,Library  ScalaTest,Library  Scalaz,Library  JUnit for Scala,Library  Scalacheck,Library  Akka for Scala" />
+      <project id="progfun-recfun" values="Scala  2.10.4,Library  JUnit for Scala,Library  Akka for Scala,Library  Scalacheck,Library  ScalaTest,Library  Scalaz" />
+      <project id="progfun" values="Scala  2.11.1" />
+      <project id="reactive-stocks" values="Library  JUnit for Scala,Library  Spray,Library  Scalacheck,Library  Play2 for Scala|false,Scala  2.11.1,Library  Scalaz,Library  Akka for Scala,Library  Specs2" />
+      <project id="todolist" values="Library  JUnit for Scala,Scala  2.10.4,Library  Specs2,Library  Spray,Library  Scalaz,Library  Play2 for Scala|false,Library  Akka for Scala,Library  Scalacheck" />
+      <project id="week3_objsets" values="Library  JUnit for Scala,Library  Scalacheck,Library  ScalaTest,Library  Akka for Scala,Library  Scalaz,Scala  2.10.4" />
+      <project id="progfun-example" values="Library  Scalacheck,Library  JUnit for Scala,Library  ScalaTest,Scala  2.10.4,Library  Akka for Scala,Library  Scalaz" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="concertTickets" values="Application" />
+      <project id="week2_funsets" values="ScalaTestRunConfiguration,Application" />
+      <project id="progfun-recfun" values="Application,ScalaTestRunConfiguration" />
+      <project id="progfun" values="Application" />
+      <project id="contacts" values="MavenRunConfiguration" />
+      <project id="week3_objsets" values="Application,ScalaTestRunConfiguration" />
+      <project id="progfun-example" values="ScalaTestRunConfiguration,JUnit,Application,ScalaScriptConsoleRunConfiguration" />
+    </group>
+    <group name="file-type">
+      <project id="concertTickets" values="IDEA_MODULE,PLAIN_TEXT,Scala,SBT,UNKNOWN,XML,Properties" />
+      <project id="bet-helper" values="XML,JAVA,UNKNOWN,IDEA_MODULE,PLAIN_TEXT" />
+      <project id="contacts" values="IDEA_MODULE,XML,UNKNOWN,ARCHIVE,CSS,CLASS,JAVA,HTML" />
+      <project id="gwt-project-webapp" values="JAVA,Properties,UNKNOWN,IDEA_MODULE,XML,CSS,HTML,ARCHIVE" />
+      <project id="week2_funsets" values="SBT,Scala,IDEA_MODULE,XML,PLAIN_TEXT,UNKNOWN,Properties,ARCHIVE" />
+      <project id="smart-todo" values="IDEA_MODULE,UNKNOWN,PLAIN_TEXT,XML,JAVA" />
+      <project id="reactive-stocks" values="PLAIN_TEXT,CoffeeScript,JAVA,Gitignore file,ARCHIVE,Images,HOCON,SBT,LESS,Bash,UNKNOWN,IDEA_MODULE,Scala,Properties,Play2,XML" />
+      <project id="progfun-example" values="PLAIN_TEXT,Scala,SBT,XML,Properties,ARCHIVE,UNKNOWN,IDEA_MODULE" />
+      <project id="smart-todo-java" values="PLAIN_TEXT,JAVA,CSS,HTML,UNKNOWN,XML,IDEA_MODULE,Properties" />
+      <project id="sharedfuncs" values="PLAIN_TEXT,UNKNOWN" />
+      <project id="progfun" values="PLAIN_TEXT,IDEA_MODULE,UNKNOWN,XML,Scala" />
+      <project id="install_dotfiles" values="IDEA_MODULE,Bash,UNKNOWN" />
+      <project id="gwt-project" values="IDEA_MODULE,JAVA,HTML,Properties,XML,Gitignore file,CSS,ARCHIVE,UNKNOWN" />
+      <project id="spring-boot-start-web" values="PLAIN_TEXT,IDEA_MODULE,JAVA,UNKNOWN,DATASOURCE_STORAGE,Gitignore file,XML" />
+      <project id="todolist" values="UNKNOWN,XML,IDEA_MODULE" />
+      <project id="gwt-spring-2" values="JSP,UNKNOWN,Gitignore file,XML,HTML,CSS,IDEA_MODULE,DATASOURCE_STORAGE,JAVA" />
+      <project id="week3_objsets" values="XML,Scala,IDEA_MODULE,SBT,ARCHIVE,PLAIN_TEXT,UNKNOWN,Properties" />
+      <project id="progfun-recfun" values="ARCHIVE,Properties,PLAIN_TEXT,Scala,UNKNOWN,XML,IDEA_MODULE,SBT" />
+      <project id="springmvc-gwt" values="IDEA_MODULE,JSP,HTML,XML,CSS,UNKNOWN,JAVA" />
+      <project id="mnemonic-numbers-rus" values="JAVA,PLAIN_TEXT,Gitignore file,IDEA_MODULE,UNKNOWN,XML,DATASOURCE_STORAGE" />
+    </group>
+    <group name="VCS Log">
+      <project id="week2_funsets" values="vcs.log.commit.count=3,vcs.log.git.root.count" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="todolist" values="H2/1.3.175 (2014-01-18),PostgreSQL/9.3.5" />
+      <project id="mnemonic-numbers-rus" values="PostgreSQL/9.3.5" />
+      <project id="gwt-spring-2" values="PostgreSQL/9.3.5" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="mnemonic-numbers-rus" values="org.postgresql.Driver" />
+      <project id="gwt-spring-2" values="org.postgresql.Driver" />
+      <project id="todolist" values="org.h2.Driver,org.postgresql.Driver" />
+      <project id="spring-boot-start-web" values="org.postgresql.Driver" />
+    </group>
+    <group name="spring">
+      <project id="smart-todo" values="fileset_configFiles5" />
+      <project id="springmvc-gwt" values="facet_xmlContext" />
+    </group>
+    <group name="frameworks">
+      <project id="install_dotfiles" values="bash" />
+      <project id="smart-todo" values="Spring" />
+      <project id="contacts" values="gwt,web,Spring" />
+      <project id="gwt-project" values="gwt,web" />
+      <project id="gwt-spring-2" values="Spring,gwt,web" />
+      <project id="springmvc-gwt" values="Spring,gwt,web" />
+      <project id="gwt-project-webapp" values="web,gwt" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="concertTickets" values="Project,Project" />
+      <project id="bet-helper" values="Project,Project" />
+      <project id="contacts" values="Project,Project" />
+      <project id="gwt-project-webapp" values="Project,Project" />
+      <project id="week2_funsets" values="Project,Project" />
+      <project id="smart-todo" values="Project,Project" />
+      <project id="reactive-stocks" values="Project,Project" />
+      <project id="progfun-example" values="Project,Project" />
+      <project id="smart-todo-java" values="Project,Project" />
+      <project id="sharedfuncs" values="Project,Project" />
+      <project id="progfun" values="Project,Project" />
+      <project id="install_dotfiles" values="Project,Project" />
+      <project id="gwt-project" values="Project,Project" />
+      <project id="spring-boot-start-web" values="Project,Project" />
+      <project id="todolist" values="Project,Project" />
+      <project id="gwt-spring-2" values="Project,Project" />
+      <project id="week3_objsets" values="Project,Project" />
+      <project id="progfun-recfun" values="Project,Project" />
+      <project id="springmvc-gwt" values="Project,Project" />
+      <project id="mnemonic-numbers-rus" values="Project,Project" />
+    </group>
+    <group name="libraries">
+      <project id="concertTickets" values="Scala" />
+      <project id="contacts" values="spring-mvc,spring,BeanValidation" />
+      <project id="gwt-project-webapp" values="BeanValidation" />
+      <project id="week2_funsets" values="Scala" />
+      <project id="smart-todo" values="spring,EJB,spring-mvc,WebSocket,BeanValidation" />
+      <project id="reactive-stocks" values="Scala,TransactionJavaee,CDI" />
+      <project id="progfun-example" values="Scala" />
+      <project id="smart-todo-java" values="spring,spring-mvc,thymeleaf,spring-security,EJB" />
+      <project id="progfun" values="Scala" />
+      <project id="gwt-spring-2" values="spring,spring-mvc,BeanValidation" />
+      <project id="spring-boot-start-web" values="spring-mvc,BeanValidation,spring,EJB" />
+      <project id="todolist" values="Scala,CDI,TransactionJavaee" />
+      <project id="gwt-project" values="BeanValidation" />
+      <project id="week3_objsets" values="Scala" />
+      <project id="progfun-recfun" values="Scala" />
+      <project id="springmvc-gwt" values="BeanValidation,spring,spring-mvc" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="smart-todo-java" values="spring-security_3.2,spring-boot_1.0,spring-mvc_4.0,spring-core_4.0" />
+      <project id="smart-todo" values="spring-boot_1.2,spring-core_4.1,spring-mvc_4.1" />
+      <project id="spring-boot-start-web" values="spring-boot_1.1,spring-core_4.0,spring-mvc_4.0" />
+    </group>
+    <group name="language-level">
+      <project id="concertTickets" values="JDK_1_7" />
+      <project id="bet-helper" values="JDK_1_8" />
+      <project id="contacts" values="JDK_1_6" />
+      <project id="gwt-project-webapp" values="JDK_1_7,JDK_1_6" />
+      <project id="week2_funsets" values="JDK_1_7" />
+      <project id="smart-todo" values="JDK_1_7,JDK_1_6" />
+      <project id="reactive-stocks" values="JDK_1_8" />
+      <project id="progfun-example" values="JDK_1_7" />
+      <project id="smart-todo-java" values="JDK_1_6" />
+      <project id="sharedfuncs" values="JDK_1_6" />
+      <project id="progfun" values="JDK_1_6" />
+      <project id="install_dotfiles" values="JDK_1_6" />
+      <project id="gwt-project" values="JDK_1_6,JDK_1_7" />
+      <project id="spring-boot-start-web" values="JDK_1_6" />
+      <project id="todolist" values="JDK_1_7" />
+      <project id="gwt-spring-2" values="JDK_1_7" />
+      <project id="week3_objsets" values="JDK_1_7" />
+      <project id="progfun-recfun" values="JDK_1_7" />
+      <project id="springmvc-gwt" values="JDK_1_8" />
+      <project id="mnemonic-numbers-rus" values="JDK_1_8" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="6" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="2" />
+      <entry feature="execute.Application.Debug" count="20" />
+      <entry feature="execute.Application.Run" count="93" />
+      <entry feature="execute.BashConfigurationType.Run" count="9" />
+      <entry feature="execute.GWT.ConfigurationType.Debug" count="3" />
+      <entry feature="execute.GWT.ConfigurationType.Run" count="74" />
+      <entry feature="execute.JUnit.Run" count="2" />
+      <entry feature="execute.MavenRunConfiguration.Debug" count="1" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="2" />
+      <entry feature="execute.Play2FrameworkRunConfigurations.Debug" count="1" />
+      <entry feature="execute.Play2FrameworkRunConfigurations.Run" count="19" />
+      <entry feature="execute.ScalaScriptConsoleRunConfiguration.Run" count="1" />
+      <entry feature="execute.ScalaTestRunConfiguration.Debug" count="7" />
+      <entry feature="execute.ScalaTestRunConfiguration.Run" count="34" />
+      <entry feature="execute.heroku-deploy.Run" count="6" />
+      <entry feature="ide.settings.Appearance" count="21" />
+      <entry feature="ide.settings.Application&#10;Servers" count="1" />
+      <entry feature="ide.settings.BashSupport" count="1" />
+      <entry feature="ide.settings.Clouds" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Debugger" count="1" />
+      <entry feature="ide.settings.Editor" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.FindBugs-IDEA" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.General" count="4" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Keymap" count="5" />
+      <entry feature="ide.settings.Plugins" count="4" />
+      <entry feature="ide.settings.SBT" count="1" />
+      <entry feature="ide.settings.Version_Control" count="2" />
+      <entry feature="ide.settings.Vim_Emulation" count="2" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ide.settings.XPath_Viewer" count="1" />
+      <entry feature="idea.caches.invalidated" count="3" />
+      <entry feature="ideaapp.started" count="44" />
+      <entry feature="scala.file.with.type.aware.annotated" count="9832" />
+      <entry feature="scala.inline" count="1" />
+      <entry feature="scala.introduce.variable" count="1" />
+      <entry feature="scala.move.class" count="2" />
+      <entry feature="scala.rename.local" count="17" />
+      <entry feature="scala.rename.member" count="4" />
+      <entry feature="scala.worksheet" count="1764" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="1" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="3" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="2" />
+    </counts>
+  </component>
+</application>
